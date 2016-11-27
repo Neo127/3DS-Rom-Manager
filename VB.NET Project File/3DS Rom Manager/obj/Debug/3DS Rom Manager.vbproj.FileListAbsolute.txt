@@ -1,0 +1,25 @@
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.exe.config
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.exe
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.pdb
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.xml
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.vbprojResolveAssemblyReference.cache
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.Form1.resources
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.Resources.resources
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.PfadAngabe.resources
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.vbproj.GenerateResource.Cache
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.exe
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.xml
+\\Vboxsvr\g_drive\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.pdb
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.LaunchForm.resources
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.MainForm.resources
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.Resources.resources
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\_3DS_Rom_Manager.SettingsForm.resources
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.vbproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.xml
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.exe.config
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.exe
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.pdb
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\bin\Debug\3DS Rom Manager.xml
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.exe
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.pdb
+E:\Visual Studio 2015\Projects\3DS Rom Manager\3DS Rom Manager\obj\Debug\3DS Rom Manager.vbprojResolveAssemblyReference.cache
